@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\graph.h(45): warning C4305: “初始化”: 从“Graph_lib::Color::Transparency”到“char”截断
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\graph.h(45): warning C4309: “初始化”: 截断常量值
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\graph.h(47): warning C4305: “初始化”: 从“Graph_lib::Color::Transparency”到“char”截断
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\graph.h(47): warning C4309: “初始化”: 截断常量值
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\gui.h(107): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\gui.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\gui.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\graph.h(130): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\graph.h(130): note: 编译类 模板 成员函数“Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)”时
+  c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\gui.h(97): note: 参见对正在编译的函数 模板 实例化“Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)”的引用
+  c:\users\17370\onedrive\cs-homework\c++\polygon20170410\polygon20170410\gui.h(99): note: 参见对正在编译的类 模板 实例化“Graph_lib::Vector_ref<Graph_lib::Button>”的引用
+  Polygon20170410.vcxproj -> C:\Users\17370\OneDrive\CS-HOMEWORK\C++\Polygon20170410\Debug\Polygon20170410.exe
+  Polygon20170410.vcxproj -> C:\Users\17370\OneDrive\CS-HOMEWORK\C++\Polygon20170410\Debug\Polygon20170410.pdb (Full PDB)
